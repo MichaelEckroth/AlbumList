@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- XML by Michael Eckroth, 11/12/23-->
+<albumlist>
+	<album>
+		<title>Hawaii Part II</title>
+		<artist>Miracle Musical</artist>
+		<year>2012</year>
+		<genre>Alternative, Indie</genre>
+	</album>
+	<album>
+		<title>Razzmatazz</title>
+		<artist>IDKhow</artist>
+		<year>2020</year>
+		<genre>Alt. Rock, Indie Pop</genre>
+	</album>
+	<album>
+		<title>Blasterpiece</title>
+		<artist>Bear Ghost</artist>
+		<year>2016</year>
+		<genre>Rock</genre>
+	</album>
+	<album>
+		<title>Ten</title>
+		<artist>Pearl Jam</artist>
+		<year>1991</year>
+		<genre>Grunge, Rock</genre>
+	</album>
+	<album>
+		<title>All Hope Is Gone</title>
+		<artist>Slipknot</artist>
+		<year>2008</year>
+		<genre>Heavy Metal</genre>
+	</album>
+	<album>
+		<title>The Great Milenko</title>
+		<artist>Insane Clown Posse</artist>
+		<year>1997</year>
+		<genre>Rap, Metal</genre>
+	</album>
+	<album>
+		<title>Puppet Loosely Strung</title>
+		<artist>The Correspondents</artist>
+		<year>2014</year>
+		<genre>Alternative, Indie</genre>
+	</album>
+	<album>
+		<title>Voulez-Vous</title>
+		<artist>ABBA</artist>
+		<year>1979</year>
+		<genre>Disco, Pop</genre>
+	</album>
+	<album>
+		<title>The Original Motion Picture Soundtrack</title>
+		<artist>Saint Motel</artist>
+		<year>2021</year>
+		<genre>Alternative, Indie</genre>
+	</album>
+	<album>
+		<title>10,000 Days</title>
+		<artist>Tool</artist>
+		<year>2006</year>
+		<genre>Prog Rock</genre>
+	</album>
+	<album>
+		<title>Befehl von Ganz Unten</title>
+		<artist>Deichkind</artist>
+		<year>2012</year>
+		<genre>Hip Hop, Electronic</genre>
+	</album>
+	<album>
+		<title>Points on the Curve</title>
+		<artist>Wang Chung</artist>
+		<year>1984</year>
+		<genre>New Wave</genre>
+	</album>
+	<album>
+		<title>Strange Highways</title>
+		<artist>Dio</artist>
+		<year>1993</year>
+		<genre>Heavy Metal</genre>
+	</album>
+	<album>
+		<title>Wheels Are Turnin'</title>
+		<artist>REO Speedwagon</artist>
+		<year>1984</year>
+		<genre>Classic Rock</genre>
+	</album>
+	<album>
+		<title>Zeitgeist</title>
+		<artist>Smashing Pumpkins</artist>
+		<year>2007</year>
+		<genre>Hard Rock</genre>
+	</album>
+	<album>
+		<title>A Rush of Blood to the Head</title>
+		<artist>Coldplay</artist>
+		<year>2002</year>
+		<genre>Rock</genre>
+	</album>
+	<album>
+		<title>The House That Dirt Built</title>
+		<artist>The Heavy</artist>
+		<year>2009</year>
+		<genre>Blues Rock</genre>
+	</album>
+	<album>
+		<title>Disco Inferno</title>
+		<artist>The Trammps</artist>
+		<year>1976</year>
+		<genre>Disco</genre>
+	</album>
+	<album>
+		<title>You'll Rebel to Anything</title>
+		<artist>Mindless Self Indulgence</artist>
+		<year>2005</year>
+		<genre>Punk Rock</genre>
+	</album>
+	<album>
+		<title>American Idiot</title>
+		<artist>Green Day</artist>
+		<year>2004</year>
+		<genre>Punk Rock</genre>
+	</album>
+</albumlist>

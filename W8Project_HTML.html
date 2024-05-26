@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<!-- HTML+JS by Michael Eckroth, 11/12/23-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>W8 Project</title>
+    <link rel="stylesheet" href="W8Project_CSS.css" />
+</head>
+<body>
+    <h2 id="title">List of My Favorite Albums</h2>
+    <ul id="list"></ul>
+
+    <script>
+        var xmlDoc = loadXML("albums.xml");
+        var x = xmlDoc.getElementsByTagName("album");
+        var text = "";
+        for (var i = 0; i < x.length; i++) {
+            if (x[i].nodeType == 1) {
+                text += "<li>";
+                var y = x[i].childNodes;
+                for (var j = 0; j < y.length; j++) {
+                    if (y[j].nodeType == 1) {
+                        text += y[j].nodeName + ": " + y[j].firstChild.nodeValue + ". ";
+                    }
+                }
+                text += "</li><br>";
+            }
+            
+        }
+        document.getElementById("list").innerHTML = text;
+
+        function loadXML(filename) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.open("GET", filename, false);
+            xhttp.send();
+            return xhttp.responseXML;
+        }
+    </script>
+</body>
+</html>

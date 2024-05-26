@@ -1,0 +1,27 @@
+﻿
+/*CSS by Michael Eckroth, 11/12/23*/
+
+* {
+    background-color: lightgray;
+    margin: 25px;
+}
+
+h2 {
+    font-family: 'Courier New';
+    color: darkviolet;
+    font-weight: bold;
+}
+
+#list {
+    list-style-type: none;
+}
+
+#list > li {
+    font-family: 'Courier New';
+    color: slateblue;
+    background-color: darkgray;
+    border: 2px solid black;
+    border-radius: 3px;
+    max-width: 1000px;
+    margin: 0px;
+}
